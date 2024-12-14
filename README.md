@@ -17,7 +17,7 @@ This project provides a practical platform for learning and implementing front-e
 
 ## Deployed App
 
-[**Byte-Builders Productivity Suite**](https://productivity-suit.vercel.app)
+[**Byte-Builders Productivity Suite**](https://task-management-psi-ruddy.vercel.app/)
 
 ---
 
