@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The **Byte-Builders Productivity Suite** is a web application designed to enhance productivity by integrating various tools and features, including task management, music, analytics, and calendars. The project focuses on creating a seamless, user-friendly interface with responsive design to ensure accessibility across all devices.
+The **Task Management App** is a web application designed to enhance productivity by integrating various tools and features, including task management, music, analytics, and calendars. The project focuses on creating a seamless, user-friendly interface with responsive design to ensure accessibility across all devices.
 
 This project provides a practical platform for learning and implementing front-end development principles using HTML, CSS, and JavaScript.
 
@@ -17,7 +17,7 @@ This project provides a practical platform for learning and implementing front-e
 
 ## Deployed App
 
-[**Byte-Builders Productivity Suite**](https://productivity-suit.vercel.app)
+[**Byte-Builders Productivity Suite**](https://task-management-psi-ruddy.vercel.app/)
 
 ---
 
@@ -102,12 +102,11 @@ This project offers tools to streamline productivity and organization, addressin
 
 ## Team Credits
 
-- **Team Lead**: Shiv Nandan
+- **Team Lead**: Pragati Sharma
 - **Team Members**: 
-  - Piyush Hardasani
+  - Shiv Nandan Soni
   - Akash Pal
   - Pritam Mondal
-  - Sidit Shrivastava
 
 ---
 
@@ -117,30 +116,6 @@ This project offers tools to streamline productivity and organization, addressin
 - Hands-on experience with **responsive design** techniques.
 - Improved teamwork, collaboration, and version control using GitHub.
 
-
-
-Home Page
-
-![image](https://github.com/user-attachments/assets/5c8671c1-bfb4-4e47-8670-2e6b16026f57)
-
-
-Tasks Page
-![image](https://github.com/user-attachments/assets/f51666aa-c902-41ef-9f5a-216313c44eaf)
-
-
-Calendar
-
-![image](https://github.com/user-attachments/assets/f214ec70-958e-40d7-929d-28510da10863)
-
-
-Music
-![image](https://github.com/user-attachments/assets/253b55c8-5cec-429f-9b26-7eb29eaa6f5e)
-
-
-Analytics
-![image](https://github.com/user-attachments/assets/e5c015ab-c602-4cab-b3a3-d99bed1b87c4)
-
----
 
 ## Future Scope
 
